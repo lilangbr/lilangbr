@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<table>
+    <tr>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilangbr&hide=html&layout=compact&theme=algolia" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lilangbr&theme=algolia"/></td>
+    </tr>   
+</table>
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
