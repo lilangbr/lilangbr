@@ -1,11 +1,14 @@
-### Hi there 👋
+### Ueba! 👋
 
 <table>
     <tr>
        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilangbr&hide=html&layout=compact&theme=algolia" /></td>
       <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=lilangbr&theme=algolia"/></td>
-    </tr>   
+    </tr>    
 </table>
+
+![lib](libftm.png)![ptr](ft_printfe.png)![get](get_next_linem.png)![net](netwhate.png)![ser](ft_servere.png)![cub](cub3de.png)
+
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
