@@ -7,7 +7,7 @@
     </tr>    
 </table>
 
-![lib](libftm.png)![ptr](ft_printfe.png)![get](get_next_linem.png)![net](netwhate.png)![ser](ft_servere.png)![cub](cub3de.png)![atual](atual.png)
+![lib](libftm.png)![ptr](ft_printfe.png)![get](get_next_linem.png)![net](netwhate.png)![ser](ft_servere.png)![cub](cub3de.png)
 
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
