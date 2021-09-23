@@ -7,7 +7,7 @@
     </tr>    
 </table>
 
-[![lib](libftm.png)](https://github.com/lilangbr/42Libft)[![ptr](ft_printfe.png)](https://github.com/lilangbr/42Printf)[![get](get_next_linem.png)](https://github.com/lilangbr/42GNL)![net](netwhate.png)[![ser](ft_servere.png)](https://github.com/lilangbr/42ft_server)[![cub](cub3de.png)](https://github.com/lilangbr/42Cub3D)
+[![lib](libftm.png)](https://github.com/lilangbr/42Libft)[![ptr](ft_printfe.png)](https://github.com/lilangbr/42Printf)[![get](get_next_linem.png)](https://github.com/lilangbr/42GNL)![net](netwhate.png)[![ser](ft_servere.png)](https://github.com/lilangbr/42ft_server)[![cub](cub3de.png)](https://github.com/lilangbr/42Cub3D)[![push](push_swapn.png)](https://github.com/lilangbr/42PushSwap)
 
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
