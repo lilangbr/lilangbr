@@ -6,8 +6,13 @@
       <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=lilangbr&theme=algolia"/></td>
     </tr>    
 </table>
-
-[![lib](libftm.png)](https://github.com/lilangbr/42Libft)[![ptr](ft_printfe.png)](https://github.com/lilangbr/42Printf)[![get](get_next_linem.png)](https://github.com/lilangbr/42GNL)![net](netwhate.png)[![ser](ft_servere.png)](https://github.com/lilangbr/42ft_server)[![cub](cub3de.png)](https://github.com/lilangbr/42Cub3D)[![push](push_swapn.png)](https://github.com/lilangbr/42PushSwap)[![mini](minishelln.png)](https://github.com/lilangbr/42minishell)
+<a href="https://github.com/lilangbr/42Libft"><img src="libftm.png" alt="lib" width="100"/></a>
+<a href="https://github.com/lilangbr/42Printf"><img src="ft_printfe.png" alt="prt" width="100"/></a>
+<a href="https://github.com/lilangbr/42GNL"><img src="get_next_linem.png" alt="gnl" width="100"/></a>
+<a href="https://github.com/lilangbr/42ft_server"><img src="netwhate.png" alt="net" width="100"/></a>
+<a href="https://github.com/lilangbr/42Cub3D"><img src="cub3de.png" alt="cub" width="100"/></a>
+<a href="https://github.com/lilangbr/42PushSwap"><img src="push_swapn.png" alt="push" width="100"/></a>
+<a href="https://github.com/lilangbr/42minishell"><img src="push_swapn.png" alt="mini" width="100"/></a>
 
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
