@@ -9,10 +9,10 @@
 <a href="https://github.com/lilangbr/42Libft"><img src="libftm.png" alt="lib" width="100"/></a>
 <a href="https://github.com/lilangbr/42Printf"><img src="ft_printfe.png" alt="prt" width="100"/></a>
 <a href="https://github.com/lilangbr/42GNL"><img src="get_next_linem.png" alt="gnl" width="100"/></a>
-<a href="https://github.com/lilangbr/42ft_server"><img src="netwhate.png" alt="net" width="100"/></a>
+<a href="https://github.com/lilangbr/42ft_server"><img src="ft_servere.png" alt="net" width="100"/></a>
 <a href="https://github.com/lilangbr/42Cub3D"><img src="cub3de.png" alt="cub" width="100"/></a>
 <a href="https://github.com/lilangbr/42PushSwap"><img src="push_swapn.png" alt="push" width="100"/></a>
-<a href="https://github.com/lilangbr/42minishell"><img src="push_swapn.png" alt="mini" width="100"/></a>
+<a href="https://github.com/lilangbr/42minishell"><img src="minishelle.png" alt="mini" width="100"/></a>
 
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
