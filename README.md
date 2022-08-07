@@ -16,7 +16,7 @@
 <a href="https://github.com/lilangbr/42PushSwap"><img src="phase_twoe.png" alt="lib" width="150"/></a>
 <a href="https://github.com/lilangbr/42PushSwap"><img src="push_swapn.png" alt="push" width="100"/></a>
 <a href="https://github.com/lilangbr/42Minishell"><img src="minishelle.png" alt="mini" width="100"/></a>
-<a href="https://github.com/lilangbr/42Minishell"><img src="philosopherse.png" alt="mini" width="100"/></a><br/>
+<a href="https://github.com/lilangbr/42Philosophers"><img src="philosopherse.png" alt="mini" width="100"/></a><br/>
 
 <a href="https://github.com/lilangbr/42CPP"><img src="phase_threen.png" alt="lib" width="150"/></a>
 <a href="https://github.com/lilangbr/42CPP"><img src="cppn.png" alt="push" width="100"/></a>
