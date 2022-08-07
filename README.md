@@ -13,6 +13,7 @@
 <a href="https://github.com/lilangbr/42Cub3D"><img src="cub3de.png" alt="cub" width="100"/></a>
 <a href="https://github.com/lilangbr/42PushSwap"><img src="push_swapn.png" alt="push" width="100"/></a>
 <a href="https://github.com/lilangbr/42Minishell"><img src="minishelle.png" alt="mini" width="100"/></a>
+<a href="https://github.com/lilangbr/42Minishell"><img src="philosopherse.png" alt="mini" width="100"/></a>
 
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
