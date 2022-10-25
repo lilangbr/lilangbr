@@ -1,4 +1,4 @@
-### Ueba! 👋
+### Wow! 👋
 
 <table>
     <tr>
@@ -6,6 +6,14 @@
       <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=lilangbr&theme=algolia"/></td>
     </tr>    
 </table>
+
+#### Here are projects from 42SP, a project-oriented course. 
+#### The course is gamified: 
+- each delivery generates lives... ❤
+- each expired deadline takes lives. 💔
+#### I'm in phase 3, "explorando o espaço", where a paradigm shift comes in: 💥Object Orientation! 
+### Let the games continue!
+
 <a href="https://github.com/lilangbr/42Libft"><img src="phase_onee.png" alt="lib" width="150"/></a>
 <a href="https://github.com/lilangbr/42Libft"><img src="libftm.png" alt="lib" width="100"/></a>
 <a href="https://github.com/lilangbr/42Printf"><img src="ft_printfe.png" alt="prt" width="100"/></a>
@@ -35,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
