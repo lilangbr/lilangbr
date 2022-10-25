@@ -12,7 +12,6 @@
 - each delivery generates lives... ❤
 - each expired deadline takes lives. 💔
 #### I'm in phase 3, "explorando o espaço", where a paradigm shift comes in: 💥Object Orientation! 
-### Let the games continue!
 
 <a href="https://github.com/lilangbr/42Libft"><img src="phase_onee.png" alt="lib" width="150"/></a>
 <a href="https://github.com/lilangbr/42Libft"><img src="libftm.png" alt="lib" width="100"/></a>
@@ -28,6 +27,8 @@
 
 <a href="https://github.com/lilangbr/42CPP"><img src="phase_threen.png" alt="lib" width="150"/></a>
 <a href="https://github.com/lilangbr/42CPP"><img src="cppn.png" alt="push" width="100"/></a>
+
+### Let the games continue!
 
 <!--
 **lilangbr/lilangbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
